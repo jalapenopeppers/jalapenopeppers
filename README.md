@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jalapenopeppers
+- 👋 Hi, I’m Ben Quintana.
 - 👀 I’m interested in full-stack development, data science, and software engineering.
 - 🌱 I’m currently learning HTML/CSS and Javascript using "The Odin Project".
 - 💞️ I’m looking to collaborate on open source projects including web apps and Python projects.
