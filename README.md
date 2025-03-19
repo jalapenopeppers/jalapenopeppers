@@ -22,9 +22,9 @@
 ### :man_technologist: About me:
 
 I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
--  💡 I’m interested in full-stack development, data science, and software engineering. Looking to also get into AI/ML soon 👀
-- 🌱 I’m currently sharpening my skills in AWS, databases like MySQL, and backend infrastructure with Python.
-- 👥 I collaborate on open source projects including web apps and Python projects.
+-  💡 I’m interested in full-stack development, data science, and software engineering.
+- 🌱 I’m currently sharpening my skills in AWS, databases like MySQL, and backend infrastructure with Node.js and Python.
+- 👥 I collaborate on open source projects including full-stack web apps and Python projects.
 - 📫 How to reach me:
   - [![Linkedin Badge](https://img.shields.io/badge/My_Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-quintana-2a96b31ba/)
 
